@@ -14,3 +14,5 @@
 ![](https://imgur.com/v6e4V4u.png)
 #### Loop Over Items er done er + sign click koro---> search & click: Summarize---> value set koro
 ![](https://imgur.com/knnVl63.png)
+#### Summarize er + sign click koro--->search & click: gmail---> click: Send a message--->value set koro[email admin email dibo]
+![](https://imgur.com/txcL0DV.png)
