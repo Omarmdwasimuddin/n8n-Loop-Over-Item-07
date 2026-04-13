@@ -4,3 +4,5 @@
 ![](https://imgur.com/DlFtHqz.png)
 #### Get row(s) in sheet er + sign click koro---> search: click: Loop Over Items--->batch size set koro google sheet er data er pair unujai
 ![](https://imgur.com/XDUWQ9R.png)
+#### Delete koro--- Replace Me
+![](https://imgur.com/OTWKgTG.png)
