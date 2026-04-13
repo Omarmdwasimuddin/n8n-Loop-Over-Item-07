@@ -12,3 +12,5 @@
 ![](https://imgur.com/DBY5h5E.png)
 #### Wait node er shathe Loop Over Items node ke connect koro and Execute workflow click koro.
 ![](https://imgur.com/v6e4V4u.png)
+#### Loop Over Items er done er + sign click koro---> search & click: Summarize---> value set koro
+![](https://imgur.com/knnVl63.png)
