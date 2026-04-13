@@ -16,3 +16,4 @@
 ![](https://imgur.com/knnVl63.png)
 #### Summarize er + sign click koro--->search & click: gmail---> click: Send a message--->value set koro[email admin email dibo]
 ![](https://imgur.com/txcL0DV.png)
+#### Execute workflow click koro.
